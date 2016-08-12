@@ -1,6 +1,9 @@
 # Thread-Test-Application
 Desktop Application to test multiple threads accessing same elements ( Java, Swing ) 
 
+![](https://github.com/albayraktaroglu/Thread-Test-Application/blob/master/Question.JPG)
+
+
 Requirements
 
 - Create a Swing form in Eclipse ( includes 4 progress bars and their current percentages and sum of that percentages )
